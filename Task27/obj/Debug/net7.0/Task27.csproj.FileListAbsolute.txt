@@ -1,0 +1,15 @@
+C:\CSHome4\CSHometask4\Task27\bin\Debug\net7.0\Task27.exe
+C:\CSHome4\CSHometask4\Task27\bin\Debug\net7.0\Task27.deps.json
+C:\CSHome4\CSHometask4\Task27\bin\Debug\net7.0\Task27.runtimeconfig.json
+C:\CSHome4\CSHometask4\Task27\bin\Debug\net7.0\Task27.dll
+C:\CSHome4\CSHometask4\Task27\bin\Debug\net7.0\Task27.pdb
+C:\CSHome4\CSHometask4\Task27\obj\Debug\net7.0\Task27.csproj.AssemblyReference.cache
+C:\CSHome4\CSHometask4\Task27\obj\Debug\net7.0\Task27.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSHome4\CSHometask4\Task27\obj\Debug\net7.0\Task27.AssemblyInfoInputs.cache
+C:\CSHome4\CSHometask4\Task27\obj\Debug\net7.0\Task27.AssemblyInfo.cs
+C:\CSHome4\CSHometask4\Task27\obj\Debug\net7.0\Task27.csproj.CoreCompileInputs.cache
+C:\CSHome4\CSHometask4\Task27\obj\Debug\net7.0\Task27.dll
+C:\CSHome4\CSHometask4\Task27\obj\Debug\net7.0\refint\Task27.dll
+C:\CSHome4\CSHometask4\Task27\obj\Debug\net7.0\Task27.pdb
+C:\CSHome4\CSHometask4\Task27\obj\Debug\net7.0\Task27.genruntimeconfig.cache
+C:\CSHome4\CSHometask4\Task27\obj\Debug\net7.0\ref\Task27.dll
